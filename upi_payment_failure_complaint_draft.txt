@@ -1,0 +1,38 @@
+# Standard Operating Procedure: UPI payment failure complaint
+
+**Audience:** Customer support agent
+**Created:** 2026-10-23
+**Status:** Draft — requires review and approval
+
+## 1. Purpose
+Provide a consistent approach for handling this process.
+
+## 2. Process details supplied
+A customer reports that money was debited but the beneficiary did not receive the payment. Record the complaint, verify transaction details through approved systems, follow the approved dispute/refund process, escalate when required, and update the case status.
+
+## 3. Procedure
+1. Receive the request and record the case in the approved case-management system.
+2. Confirm required information using approved internal procedures.
+3. Review case details and status in authorized systems.
+4. Follow the organization's approved procedure; do not promise an outcome before verification.
+5. Escalate unresolved or unusual cases to the designated team.
+6. Record actions taken and update the case status.
+7. Close the case only when approved closure criteria are met.
+
+## 4. Roles
+- Case handler: record information and document actions.
+- Process owner: review exceptions and approve decisions where required.
+
+## 5. Escalation
+- Escalate cases that cannot be resolved using the approved process.
+- Confirm applicable targets and escalation paths with the process owner.
+
+## 6. Verification checklist
+- [ ] Case recorded
+- [ ] Information checked through authorized systems
+- [ ] Approved procedure followed
+- [ ] Escalation completed if required
+- [ ] Actions and status documented
+- [ ] Draft reviewed by process owner
+
+> Safety note: Generic simulated draft, not an official Axis Bank procedure. Validate before real-world use.
